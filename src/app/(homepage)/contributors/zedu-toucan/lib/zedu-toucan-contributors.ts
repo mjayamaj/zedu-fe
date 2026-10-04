@@ -14,7 +14,7 @@ export const zeduToucanContributors: Contributor[] = [
   { name: "Kingsley Solomon", username: "gh-i19n" },
   { name: "Jubril Tayo", username: "jubriltayo" },
   { name: "KARIMAT SHUTTI", username: "KarimatShutti" },
-  { name: "mjayamaj", username: "mjayamaj" },
+  { name: "majiroghene Enaye", username: "mjayamaj" },
   { name: "Mav.js", username: "NdulueMarvellous" },
   { name: "Confidence Ndubuisi", username: "nzube123" },
   { name: "Olu Ojeniyi", username: "oluojeniyis" },
